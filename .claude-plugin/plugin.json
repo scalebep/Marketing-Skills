@@ -3,10 +3,10 @@
   "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
   "version": "2.11.17",
   "author": {
-    "name": "Corey Haines"
+    "name": "Scale"
   },
-  "homepage": "https://github.com/coreyhaines31/marketingskills",
-  "repository": "https://github.com/coreyhaines31/marketingskills",
+  "homepage": "https://github.com/scalebep/Marketing-Skills",
+  "repository": "https://github.com/scalebep/Marketing-Skills",
   "license": "MIT",
   "skills": "./skills"
 }

@@ -1,13 +1,13 @@
 {
   "name": "marketingskills",
   "owner": {
-    "name": "Corey Haines",
-    "url": "https://corey.co"
+    "name": "Scale",
+    "url": "https://github.com/scalebep"
   },
   "metadata": {
     "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, and growth",
     "version": "2.11.17",
-    "repository": "https://github.com/coreyhaines31/marketingskills"
+    "repository": "https://github.com/scalebep/Marketing-Skills"
   },
   "plugins": [
     {
